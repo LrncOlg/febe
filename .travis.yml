@@ -1,0 +1,6 @@
+sudo: false
+
+languages: node_js
+
+node_js:
+  - "10"
